@@ -1,16 +1,17 @@
-package bubbles; 
+package bubbles;
 
 public class Bubbles {
 
 	public static void main(String[] args) {
 
-		int height[] = new int[6];
+		int height[] = new int[7];
 			height[0]= 160;
 			height[1]= 175;
 			height[2]= 166;
 			height[3]= 163;
 			height[4]= 180;
 			height[5]= 161;
+			height[6]= 174;
 
 		int slot = 1;
 		int length = height.length;
