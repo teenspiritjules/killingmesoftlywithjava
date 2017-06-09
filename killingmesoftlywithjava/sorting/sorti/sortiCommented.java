@@ -1,4 +1,4 @@
-//friendly guy taught me how to create stuff properly. fazit: learned how to properly
+//friendly guy taught me how to create stuff properly. conclusion: learned how to properly
 //be lazy
 
 package sorti; //great name by great guy
