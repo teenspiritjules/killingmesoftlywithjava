@@ -7,13 +7,14 @@ public class Bubbles {
 
 	public static void main(String[] args) {
 
-		int height[] = new int[6];
+		int height[] = new int[7];
 			height[0]= 160; //pal
 			height[1]= 175; //dennis
 			height[2]= 166; //me
 			height[3]= 163; //salman
 			height[4]= 180; //louis
 			height[5]= 161; //madame
+			height[6]= 174; //guy
 
 		int slot = 1; //some variable for temporarily dumping (or saving) numbers in there
 		int length = height.length; //length of height array in one variable!
@@ -40,7 +41,7 @@ public class Bubbles {
 
 		}
 
-		//displaying all sorted heights, again using a for statement similiar to the one we already used in the
+		//displaying all sorted heights, again using a for statement similar to the one we already used in the
 		//beginning for displaying all unsorted heights.
 		System.out.println("");
 		System.out.println("Sorted:");
